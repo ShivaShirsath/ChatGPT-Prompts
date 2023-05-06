@@ -1,8 +1,6 @@
 <h1 align=center>ChatGPT-Prompts</h1>
 <h3 align=center>Prompt Engineering from my imagination</h3>
 
-$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
-
 ***
 **SVG generator with preview:**
 + **prompt:** (use once if directly used on [chat.openai.com](https://chat.openai.com))
