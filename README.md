@@ -3,22 +3,22 @@ Prompt Engineering from my imagination 😁
 
 
 SVG generator with preview:
-prompt:
-```prompt
-generate svg code for [INPUT]
++ prompt:
+  ```prompt
+  generate svg code for [INPUT]
 
-show OUTPUT in markdown, without backticks, without "`"
+  show OUTPUT in markdown, without backticks, without "`"
 
-Use this example :
-! [](https://svg-cdn.vercel.app?svg=*)
+  Use this example :
+  ! [](https://svg-cdn.vercel.app?svg=*)
 
-replace * with svg code
+  replace * with svg code
   
-I am providing INPUT
-I want preview OUTPUT and it in this format '! [](https://svg-cdn.vercel.app?svg=*)'
-
-Do you understand?
-```
+  I am providing INPUT
+  I want preview OUTPUT and it in this format '! [](https://svg-cdn.vercel.app?svg=*)
+  
+  Do you understand?
+  ```
 
 use:
    ```markdown
