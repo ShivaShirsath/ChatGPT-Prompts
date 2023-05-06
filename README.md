@@ -105,29 +105,29 @@
   ***
   Sure, here's your "dos and don'ts" list for AI:
 
-## Dos
+  + Dos
 
-- [x] Do understand the basics of AI and its limitations before implementing it in any application.
-- [x] Do ensure that the AI system is transparent and explainable, so that users can understand how the system is making decisions.
-- [x] Do ensure that the AI system is secure and free from any biases or prejudices that may affect the accuracy of its decisions.
-- [x] Do consider the ethical implications of AI and how it can be used to benefit society as a whole.
-- [x] Do use AI to automate repetitive and mundane tasks, freeing up time for more important work.
-- [x] Do ensure that the AI system is reliable and robust, with proper error handling mechanisms in place.
-- [x] Do test the AI system thoroughly before deploying it in a production environment.
-- [x] Do keep the AI system up-to-date with the latest security patches and updates.
-- [x] Do ensure that the AI system complies with all applicable laws and regulations.
+    - [x] Do understand the basics of AI and its limitations before implementing it in any application.
+    - [x] Do ensure that the AI system is transparent and explainable, so that users can understand how the system is making decisions.
+    - [x] Do ensure that the AI system is secure and free from any biases or prejudices that may affect the accuracy of its decisions.
+    - [x] Do consider the ethical implications of AI and how it can be used to benefit society as a whole.
+    - [x] Do use AI to automate repetitive and mundane tasks, freeing up time for more important work.
+    - [x] Do ensure that the AI system is reliable and robust, with proper error handling mechanisms in place.
+    - [x] Do test the AI system thoroughly before deploying it in a production environment.
+    - [x] Do keep the AI system up-to-date with the latest security patches and updates.
+    - [x] Do ensure that the AI system complies with all applicable laws and regulations.
 
-## Don'ts
+  + Don'ts
 
-- [ ] Don't implement AI blindly without understanding its potential drawbacks and limitations.
-- [ ] Don't use AI to replace human judgment and decision-making entirely.
-- [ ] Don't rely solely on AI for critical tasks without any human oversight or intervention.
-- [ ] Don't use AI to perpetuate biases or prejudices, as this can lead to inaccurate and unfair decisions.
-- [ ] Don't assume that AI is infallible or foolproof, as it can still make mistakes and errors.
-- [ ] Don't neglect to train and educate employees on how to use and interact with AI systems.
-- [ ] Don't deploy an AI system without a proper disaster recovery plan in place.
-- [ ] Don't collect or use personal data without proper consent and protection measures in place.
-- [ ] Don't use AI for unethical purposes, such as surveillance or manipulation.
+    - [ ] Don't implement AI blindly without understanding its potential drawbacks and limitations.
+    - [ ] Don't use AI to replace human judgment and decision-making entirely.
+    - [ ] Don't rely solely on AI for critical tasks without any human oversight or intervention.
+    - [ ] Don't use AI to perpetuate biases or prejudices, as this can lead to inaccurate and unfair decisions.
+    - [ ] Don't assume that AI is infallible or foolproof, as it can still make mistakes and errors.
+    - [ ] Don't neglect to train and educate employees on how to use and interact with AI systems.
+    - [ ] Don't deploy an AI system without a proper disaster recovery plan in place.
+    - [ ] Don't collect or use personal data without proper consent and protection measures in place.
+    - [ ] Don't use AI for unethical purposes, such as surveillance or manipulation.
   ***
 ***
 
