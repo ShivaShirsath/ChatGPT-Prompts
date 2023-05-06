@@ -20,7 +20,7 @@ SVG generator with preview:
   Do you understand?
   ```
 
-+ use: (use it mulyiple times if prompt is used before else use it with prompt)
++ use: <small>(use it mulyiple times if prompt is used before else use it with prompt)</small>
   ```markdown
    Input: sin wave changing color
   ```
