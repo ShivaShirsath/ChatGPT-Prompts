@@ -45,3 +45,41 @@
   ![](https://svg-cdn.vercel.app?svg=%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20100%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22gradient%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22blue%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22green%22%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22red%22%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Cpath%20d%3D%22M%200%2050%20Q%2025%2040%2050%2050%20Q%2075%2060%20100%2050%20Q%20125%2040%20150%2050%20Q%20175%2060%20200%2050%20Q%20225%2040%20250%2050%20Q%20275%2060%20300%2050%20Q%20325%2040%20350%2050%20Q%20375%2060%20400%2050%20Q%20425%2040%20450%2050%20Q%20475%2060%20500%2050%22%20stroke%3D%22url(%23gradient)%22%20stroke-width%3D%223%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E)
   ***
 ***
+**Differance generator with preview:**
++ **prompt:** (use once if directly used on [chat.openai.com](https://chat.openai.com))
+  ```prompt
+   generate differance between [option1] and [option2]
+   multiple points
+
+   show OUTPUT in markdown with table format
+
+   I am providing INPUT
+   I want differance in OUTPUT
+
+   Do you understand?
+  ```
+
++ **use:** (use it mulyiple times if prompt is used before else use it with prompt)
+  ```markdown
+   Option 1: Markup
+   Option 2: Markdown
+  ```
+  
++ **output:** (generated automatically)
+  ***
+  Great, here's a comparison table highlighting the differences between Markup and Markdown:
+
+  |     | Markup | Markdown |
+  | --- | ------ | -------- |
+  | Purpose | Used to format text for print or digital media | Used to format text for web-based platforms |
+  | Syntax | Uses HTML tags and attributes | Uses plain text characters |
+  | Learning Curve | Steep | Easy to learn |
+  | Ease of Use | Complex | Simple |
+  | Formatting | Formatting options are more extensive | Formatting options are limited |
+  | Portability | Not as portable across different platforms | Highly portable across different platforms |
+  | Widely Used In | Adobe Photoshop, InDesign, QuarkXPress, etc. | GitHub, Reddit, Stack Overflow, etc. |
+
+  Hope this helps! Let me know if you need any further information.
+  ***
+***
+
