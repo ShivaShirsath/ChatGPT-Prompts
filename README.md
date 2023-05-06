@@ -3,7 +3,7 @@
 
 ***
 SVG generator with preview:
-+ prompt: (use once if directly used on chat.openai.com)
++ prompt: (use once if directly used on [chat.openai.com])
   ```prompt
   generate svg code for [INPUT]
 
