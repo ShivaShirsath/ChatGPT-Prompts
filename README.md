@@ -1,7 +1,7 @@
 <h1 align=center>ChatGPT-Prompts</h1>
 <h3 align=center>Prompt Engineering from my imagination</h3>
 
-\(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 
 ***
 **SVG generator with preview:**
