@@ -23,6 +23,7 @@ use:
    Input: sin wave changing color
    ```
 output:
+
    ***
    Here is the SVG code for a sine wave changing color:
 
