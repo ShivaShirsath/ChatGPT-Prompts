@@ -2,8 +2,8 @@
 <h3 align=center>Prompt Engineering from my imagination</h3>
 
 ***
-*SVG generator with preview:*
-+ *prompt:* (use once if directly used on [chat.openai.com](https://chat.openai.com))
+**SVG generator with preview:**
++ **prompt:** (use once if directly used on [chat.openai.com](https://chat.openai.com))
   ```prompt
   generate svg code for [INPUT]
 
@@ -20,12 +20,12 @@
   Do you understand?
   ```
 
-+ *use:* (use it mulyiple times if prompt is used before else use it with prompt)
++ **use:** (use it mulyiple times if prompt is used before else use it with prompt)
   ```markdown
    Input: sin wave changing color
   ```
   
-+ *output:* (generated automatically)
++ **output:** (generated automatically)
   ***
   Here is the SVG code for a sine wave changing color:
   ```
