@@ -1,9 +1,9 @@
 <h1 align=center>ChatGPT-Prompts</h1>
 <h3 align=center>Prompt Engineering from my imagination</h3>
 
-H-2-O
+H -2- O
 
-X^2^
+X ^2^
 
 ***
 **SVG generator with preview:**
