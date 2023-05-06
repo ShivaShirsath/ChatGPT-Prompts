@@ -20,12 +20,13 @@ SVG generator with preview:
   Do you understand?
   ```
 
-use:
-   ```markdown
++ use:
+  ```markdown
    Input: sin wave changing color
-   ```
-output:
-***
+  ```
+  
++ output:
+  ***
 Here is the SVG code for a sine wave changing color:
 ```
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
