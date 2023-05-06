@@ -27,7 +27,7 @@ SVG generator with preview:
   
 + output:
   ***
-Here is the SVG code for a sine wave changing color:
+  Here is the SVG code for a sine wave changing color:
 ```
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
   <defs>
