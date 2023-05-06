@@ -3,7 +3,8 @@ Prompt Engineering from my imagination 😁
 
 
 SVG generator with preview:
-prompt: ```prompt
+prompt:
+```prompt
 generate svg code for [INPUT]
 
 show OUTPUT in markdown, without backticks, without "`"
@@ -18,6 +19,7 @@ I want preview OUTPUT and it in this format '! [](https://svg-cdn.vercel.app?svg
 
 Do you understand?
 ```
+
 use:
    ```markdown
    Input: sin wave changing color
