@@ -130,5 +130,43 @@
     - [ ] Don't use AI for unethical purposes, such as surveillance or manipulation.
   ***
 ***
+**Formula generator with preview:**
++ **prompt:** (use once if directly used on [chat.openai.com](https://chat.openai.com))
+  ```prompt
+   Give formula of [formula]
+
+   in markdown format with in $$
+   example: $$*$$
+   Replace * with formula
+
+   I am providing input
+   I want only preview in markdown
+
+   Do you understand?
+  ```
+
++ **use:** (use it mulyiple times if prompt is used before else use it with prompt)
+  ```markdown
+   Formula: pythagoras with root
+  ```
+  
++ **output:** (generated automatically)
+  ***
+  Sure! The Pythagorean theorem with the square root is given by:
+
+  ```
+   $$c = \sqrt{a^2 + b^2}$$
+  ```
+
+  This will render as:
+
+  $$c = \sqrt{a^2 + b^2}$$
+
+  where `a` and `b` are the lengths of the two legs of a right triangle and `c` is the length of the hypotenuse.
+  ***
+***
+
+
+
 
 
