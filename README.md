@@ -1,5 +1,5 @@
-# ChatGPT-Prompts
-Prompt Engineering from my imagination 😁
+<h1 align=center>ChatGPT-Prompts</h1>
+<h3 align=center>Prompt Engineering from my imagination</h3>
 
 ***
 SVG generator with preview:
