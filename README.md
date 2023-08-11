@@ -166,7 +166,7 @@
   ***
 ***
 
-
+<!--
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -181,3 +181,4 @@ Alice->John: Yes... John, how are you?
 
 
 
+-->
