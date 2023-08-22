@@ -171,7 +171,7 @@
 flowchart TD
 
 subgraph "React Project" 
-  A[Components]
+  A[React Components]
   B[Routes]
   C[Utils (api.jsx)]
   A --> B
@@ -179,7 +179,7 @@ subgraph "React Project"
 end
 
 subgraph "WebAPI Project"
-  D[Controllers]
+  D[WebAPI Controllers]
   E[Services]
   F[Repositories]
   G[Database]
@@ -191,7 +191,7 @@ subgraph "WebAPI Project"
 end
 
 subgraph ".NET Core Web MVC Project"
-  I[Controllers]
+  I[MVC Controllers]
   J[Views]
   K[ViewModels]
   L[Services]
@@ -206,8 +206,9 @@ subgraph ".NET Core Web MVC Project"
   I --> O
 end
 
-A[React Components] --> D[WebAPI Controllers]
-C[Utils (api.jsx)] --> D
+A --> D
+C --> D
+
 
 ```
 
