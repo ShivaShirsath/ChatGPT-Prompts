@@ -167,12 +167,12 @@
 ***
 
 ```mermaid
-flowchart LR
+flowchart TD
 
 subgraph "React Project" 
   A[Components]
   B[Routes]
-  C[api.jsx]
+  C[Utils (api.jsx)]
   A --> B
   B --> C
 end
@@ -205,8 +205,8 @@ subgraph ".NET Core Web MVC Project"
   I --> O
 end
 
-A --> D
-C --> D
+A[React Components] --> D[WebAPI Controllers]
+C[Utils (api.jsx)] --> D
 
 ```
 
