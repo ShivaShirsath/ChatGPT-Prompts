@@ -166,19 +166,47 @@
   ***
 ***
 
-<!--
 ```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long long time, so long that the text does not fit on a row.
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+flowchart LR
+
+subgraph "React Project" 
+  A[Components]
+  B[Routes]
+  C[api.jsx]
+  A --> B
+  B --> C
+end
+
+subgraph "WebAPI Project"
+  D[Controllers]
+  E[Services]
+  F[Repositories]
+  G[Database]
+  H[Audit.NET]
+  D --> E
+  E --> F
+  F --> G
+  D --> H
+end
+
+subgraph ".NET Core Web MVC Project"
+  I[Controllers]
+  J[Views]
+  K[ViewModels]
+  L[Services]
+  M[Repositories]
+  N[Database]
+  O[Audit.NET]
+  I --> J
+  I --> K
+  I --> L
+  L --> M
+  M --> N
+  I --> O
+end
+
+A --> D
+C --> D
+
 ```
 
-
-
-
--->
