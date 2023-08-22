@@ -168,12 +168,12 @@
 
 
 ```mermaid
-flowchart LR
+flowchart TD
 
 subgraph "React Project" 
   A[React Components]
   B[Routes]
-  C[Utils (api.jsx)]
+  C[Utils]
   A --> B
   B --> C
 end
