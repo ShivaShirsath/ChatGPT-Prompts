@@ -168,7 +168,7 @@
 
 
 ```mermaid
-flowchart TD
+flowchart LR
 
 subgraph "React Project" 
   A[React Components]
